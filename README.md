@@ -1,2 +1,1 @@
-﻿# CI
-echo "# CI" >> README.md
+Hey
